@@ -1,3 +1,2 @@
-let eu = "vou me matar"
+let eu = "vou me matar"git clone https://github.com/FelypeSposito/VivVelas.git
 
-git
